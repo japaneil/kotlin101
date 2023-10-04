@@ -1,7 +1,5 @@
-fun main(args: Array<String>) {
+fun main(){
     println("Hello World!")
-
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+    print("This type of print does not leave a line") // commenting is the same as C
+    /* this is a multi line comment */
 }
