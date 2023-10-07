@@ -9,7 +9,6 @@ fun number(){
         num1++
     }
 }
-
 fun main(){
     number()
 }
