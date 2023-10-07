@@ -1,4 +1,4 @@
-//var nums: Int = 0
+var nums: Int = 0
 fun  main(){
     /*for (x in food){
         println(x)
